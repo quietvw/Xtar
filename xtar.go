@@ -35,7 +35,7 @@ func main() {
 	flag.Parse()
 
 	if *version {
-		fmt.Printf("Adaclare Xtar version %s\n", appVersion)
+		fmt.Printf("Adaclare Xtar ( https://github.com/quietvw/Xtar ) version %s\n", appVersion)
 		return
 	}
 
