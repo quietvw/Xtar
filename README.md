@@ -1,5 +1,7 @@
 # Adaclare Xtar - Secure Archiver
 
+![Xtar Banner](https://github.com/quietvw/Xtar/blob/main/Xtarbanner.png?raw=true)
+
 [![Go](https://github.com/quietvw/Xtar/actions/workflows/go.yml/badge.svg)](https://github.com/quietvw/Xtar/actions/workflows/go.yml)
 
 Adaclare Xtar is a command-line tool for securely compressing and splitting `.tar.gz` files using AES-256 encryption. It also supports joining and decrypting split files for decompression. This tool is designed to allow efficient compression and encryption, providing the ability to split large files into smaller chunks for easier storage or transfer.
