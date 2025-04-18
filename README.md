@@ -22,7 +22,7 @@ Adaclare Xtar is a command-line tool for securely compressing and splitting `.ta
 To install `Adaclare Xtar`, clone this repository and build the binary using Go:
 
 ```bash
-git clone https://github.com/your-username/adaclare-xtar.git
-cd adaclare-xtar
-go build -o adaclare-xtar
+git clone https://github.com/quietvw/Xtar.git
+cd Xtar
+go build xtar.go
 
